@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a1fb399bdba57f4b87d97efe5ef3ee0, type: 3}
+  m_Name: 1 - Director Kaywin - Help
+  m_EditorClassIdentifier: 
+  subjectLine: Help!
+  sender: Director Kaywin Feldman
+  profilePic: {fileID: 21300000, guid: 8ca8427b4f1cf46eda5a309ff54f7d62, type: 3}
+  timeStamp: 03:36pm
+  message: "We\u2019re glad you made it.  We believe the museum has been infiltrated
+    by members of the secret society Nulla Vectes. As you know, they believe that
+    technology has severed our connection with reality and made us lose our appreciation
+    for things like art. We believe they\u2019re close to completing a disruption
+    device, which will render all electronic devices inoperable.  \n\nThey\u2019ve
+    left behind a series of clues, hoping that like-minded individuals will be able
+    to find them and join their cause. We need you to solve their riddles, and disable
+    their device before it\u2019s too late!\n\nDon\u2019t forget to pick up your credentials
+    from the welcome desk in the museum lobby (at the 3rd avenue entrance)! Thank
+    you! You\u2019re our best chance at stopping them before it\u2019s too late!"
+  mapHintImage: {fileID: 21300000, guid: d99d414a301de7941aacb74904960d1b, type: 3}
+  mapHint: 'You need a physical badge. Pick it up from the welcome desk. '
+  puzzleHint: 'Use the camera feature to look at your ID card - it might hide some
+    secrets. '
+  answerHint: Using the camera feature in this app to scan the card will trigger the
+    next clue. Check your messages!
+  puzzle: {fileID: 1849832269522702, guid: df25a2c87b0934d43b5a07126e26c74b, type: 2}
+  puzzlesCompletedToShow: 0
+  mainColor: {r: 0.2870297, g: 0.20403169, b: 0.3301887, a: 1}
+  secondaryColor: {r: 0, g: 0.6152475, b: 1, a: 1}

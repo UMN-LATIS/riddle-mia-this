@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 87b628f3ce5d1544ea03362fbd2676d6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Expletus Sans
+  fontNames:
+  - Expletus Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1eaf4bf44530aec4b944b3ec0eb44de0, type: 3}
+  - {fileID: 12800000, guid: 5d4495d733bbe61459222c575abda7da, type: 3}
+  - {fileID: 12800000, guid: 589876c96acbe174bb91c52bf8c2d915, type: 3}
+  - {fileID: 12800000, guid: 3ac3d3be8deaf3940bbb5e8c856b2091, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

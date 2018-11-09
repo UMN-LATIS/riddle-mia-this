@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bd6367938a5e73743a3deab4d841424f
+labels:
+- team
+- theme
+- brightness
+- saturation
+- lightness
+- hue
+- colour
+- color
+- themo
+- hsl
+- hdr
+- tint
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

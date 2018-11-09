@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a1fb399bdba57f4b87d97efe5ef3ee0, type: 3}
+  m_Name: 11 - Nulla Vectes - Make your choice
+  m_EditorClassIdentifier: 
+  subjectLine: Make your choice
+  sender: Nulla Vectes
+  profilePic: {fileID: 21300000, guid: 1f269eeb397da41378bb3e27fe21ad2d, type: 3}
+  timeStamp: 04:04pm
+  message: 'Journey past the relief of Bradstreet.  Find the doorway guarded by Icarus,
+    who learned the truth of the curse of technology.  Look closely at the nearby
+    paintings to choose your fate. '
+  mapHintImage: {fileID: 21300000, guid: 24b2b1ef94a2d1a4bafd895a33c6e6be, type: 3}
+  mapHint: 'Go to gallery G321. '
+  puzzleHint: Icarus is a small black statue, near one of the doors in the room.  There
+    are two paintings to his left.
+  answerHint: "Use the camera feature in this app to examine the painting \u201CThe
+    Fallen Branch\u201D.  That will prompt you with the choice to join or not join
+    Nulla Vectes. Either answer is correct.  "
+  puzzle: {fileID: 1849832269522702, guid: df25a2c87b0934d43b5a07126e26c74b, type: 2}
+  puzzlesCompletedToShow: 10
+  mainColor: {r: 0.39200002, g: 0.107333325, b: 0.107333325, a: 1}
+  secondaryColor: {r: 0.6705885, g: 0, b: 1, a: 1}

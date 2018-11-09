@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a1fb399bdba57f4b87d97efe5ef3ee0, type: 3}
+  m_Name: 4 - Nulla Vectes - We meet again
+  m_EditorClassIdentifier: 
+  subjectLine: We meet again
+  sender: Nulla Vectes
+  profilePic: {fileID: 21300000, guid: 1f269eeb397da41378bb3e27fe21ad2d, type: 3}
+  timeStamp: 04:04pm
+  message: "Hello again Professor Jones.  You could be a great ally for our cause.
+    \ Have you considered joining?  You don\u2019t support the techno-plague any more
+    than we do.  How about we give you the chance to join us and embrace the tranquility.
+    \ Go through the stone gate towards the columns and turn left.  Past the calming
+    water and left to the plains of Africa, we seek only quiet.\r\n\r\nOh, and if
+    you choose not to join?  We\u2019ll destroy you.  But we\u2019ll throw you a beautiful
+    funeral, with a fantastic coffin.  You\u2019ll just need to let us know where
+    to send the flowers.\r"
+  mapHintImage: {fileID: 21300000, guid: 724c9f28182f6a246a58608b1d104163, type: 3}
+  mapHint: Go to gallery G250.
+  puzzleHint: Not all coffins look like coffins.  This one is a bit buggy.
+  answerHint: "The answer is found on the Fantasy Coffin, which is a large green lobster.
+    The answer is the PO Box written on the piece, \u201C343\u201D."
+  puzzle: {fileID: 1155272952469822, guid: b2e0e1294a2bcd24e8836de8fb716274, type: 2}
+  puzzlesCompletedToShow: 3
+  mainColor: {r: 0.39200002, g: 0.107333325, b: 0.107333325, a: 1}
+  secondaryColor: {r: 0.6705885, g: 0, b: 1, a: 1}

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6ff20f6ee5a127345a04aa989f7f56f6
+labels:
+- team
+- theme
+- brightness
+- lightness
+- saturation
+- hue
+- colour
+- color
+- themo
+- hsl
+- hdr
+- tint
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

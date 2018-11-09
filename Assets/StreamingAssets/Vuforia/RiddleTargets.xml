@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fishingparty" size="0.093000 0.063150" />
+    <ImageTarget name="catspaw" size="0.076000 0.083569" />
+    <ImageTarget name="bronzehorses" size="0.100000 0.124490" />
+    <ImageTarget name="Woodcut" size="1.000000 1.151000" />
+    <ImageTarget name="Bust" size="1.000000 1.338000" />
+    <ImageTarget name="queen" size="1.000000 1.609000" />
+    <ImageTarget name="NotreDame_tracker" size="1.000000 1.551000" />
+    <ImageTarget name="ChampsElysee_tracker" size="1.000000 0.792500" />
+    <ImageTarget name="Diana_new" size="1.000000 0.700500" />
+    <ImageTarget name="ID_Badge" size="0.100000 0.073550" />
+    <ImageTarget name="Decision" size="2.000000 1.610667" />
+    <ImageTarget name="clockmaker_image_small" size="1.000000 1.366604" />
+    <ImageTarget name="Graffiti" size="0.250000 0.317905" />
+    <ImageTarget name="Card_Back" size="0.100000 0.058525" />
+    <ImageTarget name="Card_Front" size="0.100000 0.058525" />
+  </Tracking>
+</QCARConfig>

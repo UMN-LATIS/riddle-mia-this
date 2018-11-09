@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a1fb399bdba57f4b87d97efe5ef3ee0, type: 3}
+  m_Name: 2 - Chief Curator Jacobson - More Information
+  m_EditorClassIdentifier: 
+  subjectLine: More Information
+  sender: Director Kaywin Feldman
+  profilePic: {fileID: 21300000, guid: 8ca8427b4f1cf46eda5a309ff54f7d62, type: 3}
+  timeStamp: 11:00am
+  message: "We\u2019re still trying to piece together the clues we\u2019ve found.
+    \ Our best guess is that the trail starts in gallery G200 - it\u2019s the open
+    area on the second floor, near the windows facing the park.  Someone walked up
+    to a docent and said \u201CThe universe leaves us hints, we just need to read
+    the signs.  Basking in humility is the path to disruption.\u201D  We\u2019re not
+    sure what it means.  Take the stairs or elevator up one level and see what you
+    can find.  We\u2019ll be monitoring your progress along the way.\r"
+  mapHintImage: {fileID: 21300000, guid: e1c2e2eab9b39bb4b8a55c7db5a4dd51, type: 3}
+  mapHint: "Make sure you\u2019re in gallery G200. It\u2019s on the second floor,
+    above the lobby seating area. "
+  puzzleHint: "You\u2019ll need to look up to find the characters you\u2019re seeking
+    - they\u2019re carved in wood."
+  answerHint: "If you stand in the Gate of Prosperity and look up, you\u2019ll see
+    four characters.  These can be matched to four of the characters in the message.
+    \ Select the first, second, third, and ninth characters, then push send. "
+  puzzle: {fileID: 1886230818725778, guid: efb2106922a631441994c17e0af6ce9b, type: 2}
+  puzzlesCompletedToShow: 1
+  mainColor: {r: 0.2870297, g: 0.20403169, b: 0.3301887, a: 1}
+  secondaryColor: {r: 0, g: 0.6152475, b: 1, a: 1}

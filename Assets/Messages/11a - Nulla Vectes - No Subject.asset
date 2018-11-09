@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a1fb399bdba57f4b87d97efe5ef3ee0, type: 3}
+  m_Name: 11a - Nulla Vectes - No Subject
+  m_EditorClassIdentifier: 
+  subjectLine: '[No Subject]'
+  sender: Nulla Vectes
+  profilePic: {fileID: 21300000, guid: 1f269eeb397da41378bb3e27fe21ad2d, type: 3}
+  timeStamp: 04:04pm
+  message: Welcome to Nulla Vectes.  One of the downsides is that you need to give
+    up your smartphone.  Bummer. At least you can keep enjoying the museum!
+  mapHintImage: {fileID: 0}
+  mapHint: 
+  puzzleHint: 
+  answerHint: 
+  puzzle: {fileID: 1603289557074088, guid: 52b621f5a655dff45b53140fdfc1ae17, type: 2}
+  puzzlesCompletedToShow: 12
+  mainColor: {r: 0.39200002, g: 0.107333325, b: 0.107333325, a: 1}
+  secondaryColor: {r: 0.6705885, g: 0, b: 1, a: 1}

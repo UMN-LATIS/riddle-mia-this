@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a1fb399bdba57f4b87d97efe5ef3ee0, type: 3}
+  m_Name: 5 - Chief Curator Jacobson - Another clue
+  m_EditorClassIdentifier: 
+  subjectLine: Another clue?
+  sender: Director Kaywin Feldman
+  profilePic: {fileID: 21300000, guid: 8ca8427b4f1cf46eda5a309ff54f7d62, type: 3}
+  timeStamp: 04:04pm
+  message: "A patron reported some \u201Cgraffiti\u201D in the atrium. From what they
+    described, it might be the symbol of Nulla Vectes. Go past the masks and drums
+    and take a right.  Follow the sign for the atrium, take a left at the totems and
+    find your way.  Check the map if you get confused - there are some zigs and zags.
+    The patron couldn\u2019t remember if they were on the second or third floor when
+    they saw it, so keep your eyes peeled.   Maybe you can take a closer look and
+    see if it\u2019s related to the plot that Nulla Vectes is hatching.  And remember
+    - safety first!  No need to lean over the railing. After all, there are two sides
+    to every coin."
+  mapHintImage: {fileID: 21300000, guid: 99bf3f4eb390a8a44b88e853e27863ef, type: 3}
+  mapHint: Go to the atrium.
+  puzzleHint: "The \u201Cgrafitti\u201D you\u2019re looking for is actually on the
+    third floor.  You can see it from the second floor, but you\u2019ll need to head
+    upstairs to get a closer look. Remember, it has two sides!"
+  answerHint: "Use the camera f to examine the back of the graffiti on the third floor.
+    \ It\u2019s on the wooden railing, facing gallery G379."
+  puzzle: {fileID: 1849832269522702, guid: df25a2c87b0934d43b5a07126e26c74b, type: 2}
+  puzzlesCompletedToShow: 4
+  mainColor: {r: 0.2870297, g: 0.20403169, b: 0.3301887, a: 1}
+  secondaryColor: {r: 0, g: 0.6152475, b: 1, a: 1}
